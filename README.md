@@ -22,7 +22,7 @@ A convolutional neural network (CNN) project that classifies images as either do
 
 ---
 
-## 🌟 Overview
+## Overview
 
 This project implements a CNN-based deep learning model to classify images into two categories: **dogs** and **cats**. It uses TensorFlow and Keras libraries for training the model on an image dataset and evaluating its performance.
 
