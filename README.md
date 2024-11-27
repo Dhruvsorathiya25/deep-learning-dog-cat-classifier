@@ -22,13 +22,13 @@ A convolutional neural network (CNN) project that classifies images as either do
 
 ---
 
-## Overview
+## Overview 🌟
 
 This project implements a CNN-based deep learning model to classify images into two categories: **dogs** and **cats**. It uses TensorFlow and Keras libraries for training the model on an image dataset and evaluating its performance.
 
 ---
 
-## ✨ Features
+## Features ✨
 
 - Binary classification (Dog vs Cat).
 - Pre-trained models for feature extraction.
@@ -38,7 +38,7 @@ This project implements a CNN-based deep learning model to classify images into 
 
 ---
 
-## 📊 Dataset
+## Dataset 📊
 
 The dataset used for this project consists of labeled images of dogs and cats.
 
@@ -51,7 +51,7 @@ The dataset used for this project consists of labeled images of dogs and cats.
 
 ---
 
-## 🗂 Dataset Folder Structure
+## Dataset Folder Structure 🗂
 
 Organize the dataset into the following structure:
 
@@ -74,7 +74,7 @@ data/
 
 ---
 
-## 🏗 Project Structure
+## Project Structure 🏗
 
 The project is organized as follows:
 
@@ -95,7 +95,7 @@ dog-cat-classifier/
 
 ---
 
-## ⚙️ Installation
+## Installation ⚙️
 
 1. Clone the repository:
 
@@ -114,7 +114,7 @@ dog-cat-classifier/
 
 ---
 
-## 🏗 Building the CNN Model
+## Building the CNN Model 🏗
 
 This project uses a convolutional neural network (CNN) to classify images. The architecture includes convolutional layers, max-pooling layers, and fully connected layers.
 
@@ -182,7 +182,7 @@ history = model.fit(
 
 ---
 
-## 🚀 Usage
+## Usage 🚀
 
 1. **Run the Jupyter Notebook**:
    Open the notebook `cnn_dog_cat_class.ipynb` in Google Colab or locally and execute the cells step-by-step.
@@ -202,7 +202,7 @@ history = model.fit(
 
 ---
 
-## 📝 License
+## License 📝
 
 This project is licensed under the [MIT License](LICENSE).
 
